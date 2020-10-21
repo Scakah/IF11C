@@ -1,9 +1,9 @@
-### Allgemeines
+# Allgemeines
 
 - e-mail: vhorn@b3-fuerth.com
 - Noten: 1 KA, 1 SA, 1 [Vortrag](#kurzreferat)
 
-### Kurzreferat
+## Kurzreferat
 
 - 1-4 themen, 2er-teams
 - Powerpoint
@@ -11,7 +11,7 @@
 - [erwartungshorizont]()
 - 12.KW
 
-### Themen:
+## Themen:
 
 - Demokratie in der Bundesrepublik
 - Staatsziele und Staatsordnung
@@ -55,5 +55,19 @@
 - Funktionierende Verwaltung
   - Leistungsverwaltung: Zuteilung der Leistungen des Staats
   - Eingriffsverwaltung: Eintreiben der dem Staat zustehenden Leistungen.
-    [s](https://)
+
+### Das Grundgesetz
+
+Das Grundgesetz ist die Verfassung der Bundesrepublik Deutschland. In einer Verfassung stehen die wichtigsten Regeln für das Zussammenleben in einem Staat.
+
+In den ersten Artikeln (1 bis 19) das Grundgesetzes sind die Grundrechte der BürgerInnen und Bürger zu finden. Das GG regelt ebenfalls die Organisation des Staates.
+
+- Grundrechte:
+  - Art 1-19
+  - Menschenwürde
+  - 
+- Staatsorganisation
+  - Art 20: Demokratie, Rechtsstatt, 
+
+
 
