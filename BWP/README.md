@@ -40,3 +40,18 @@ c) Zeit des Marktes
 d) Art der Kommnunikation
 e) Anzahl der Teilnehmer
 
+### Der Vollkommene Markt:
+- Öbkonomisches, Rationales Handeln
+- Große anzahl von Abietern und Nachfragern
+- Homogene Güter
+- Präferenzfreie Nachfrage/Angebote
+- Durchsichtiges Marktgeschehen
+- Handel Unendlich Schnell - Änderungen werden ohne verzug angewandt
+
+#### Präferenzen:
+- Persöhnliche
+- Sachliche
+- Räumliche
+- Zeitliche
+
+
