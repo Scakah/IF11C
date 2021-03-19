@@ -72,6 +72,9 @@ Unter Mikrosegmentierung versteht man die unterteilung meherer Kollisionsdomäne
 |1 | Mac 5| t0|
 |4 |Mac 2| t1 |
 
+### IP Adresses 
+
+
 
 
 

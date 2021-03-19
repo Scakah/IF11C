@@ -69,5 +69,37 @@ In den ersten Artikeln (1 bis 19) das Grundgesetzes sind die Grundrechte der Bü
 - Staatsorganisation
   - Art 20: Demokratie, Rechtsstatt, 
 
+### Grundgesetzprinzipien unseres Staates
+#### Arbeittsauftrag 1
+
+-  Demokratischer, sozialer Bundesstaat
+-  Gewalt geht vom Volke durch das Volk bestimmte vertreter aus
+-  Gewaltenteilung, die sich an gesetzgebung halten muss
+
+#### Arbeitsauftrag 2
+
+|Prinzip|Kurzbeschreibung|Beispiel|
+|:------|:---------------|:-------|
+|Demokratie| Die Staatsgewalt geht vom Volke aus. Gewählte Representation mit mehrheitsprinzip, aber schutz der minderheiten| Bundestag wird durch gewählte Parteien gestellt|
+|Bundesstaatlichkeit| Der Staat besteht aus 16 Bundesländern, die teilweise aufgaben des Staates übernehmen| Bildung ist Ländersache!!!11elf!|
+|Rechststaatlichkeit| Rechtsicherheit, Rechtsgleichheit, Rechtsunabhängigkeit | |
+|Gewaltenteilung | Horizontale und vertikale Teilung (Judikative, Executive, Legislative; Bund, Land, Kommune)||
+|Sozialstaatlichkeit|  Soziale Sicherheit der Bürger ist Gewährleistet | ALG II, Krankenversicherung|
+|Widerstandsrecht| Das Volk darf, sofern die von ihm gewählten vertretungen handlungsunfähig geworden sind, selbst die Einhaltung des Grundgesetztes Erzwingen||
+
+### Die Medien als 4. Gewalt
+
+a) Kontrolle der Meinung des Volkes -> Wahlen (>Ürsprüngliche der Politik in Athen)
+b) Zensur kritischer Meinung, Kontrolle der Blasen
+c) Ja
+
+### Gefahren für die Demoktratie
+
+Arbeitsauftag 1:
+
+Arbeitsauftrag 2:
+ - 
+
+
 
 
