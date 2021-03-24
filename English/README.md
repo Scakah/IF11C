@@ -155,3 +155,19 @@ ___
     Yours sincerely,
     (...)
 ---
+
+
+## ProgLang 2
+
+key | Value
+:-- | :--
+1 | COBOL
+2 | Mathematical Programming
+3 | Basic
+4 | TurboPascal
+5 | 1972
+6 | Object-Oriented
+7 | Limited Toolbox as addtion to Basic; Based mainly on MS WINDOWS systems
+8 | General-Purpose, focused on widespread compatability
+9 | Typescript (HTML)
+10| General Purpose, focused on fast execution

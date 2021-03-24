@@ -1,0 +1,69 @@
+/* Bild rechtsbündig */
+.logo {float:right;}
+
+/* Tabelle formatieren */
+/*---------------------*/
+/* Größe der Tabelle */
+
+.header-row {
+	display: flex;
+	justify-content: space-between;
+}
+
+table {
+	width:80%;	
+}
+
+/* Tabellenrahmen*/
+table,th, td {
+	border-collapse:collapse;
+	border: 1px solid black;
+}
+
+/* Hintergrund der Kopfzeile der Tabelle*/
+th {
+	background-color:lightgrey;
+	text-align:left;
+}
+
+/* Erste und 3te Zelle/Spalte rechtsbündig - Klasse in table-tag integrieren*/
+.tblZutrittsversuche 
+   td:nth-child(1), 
+   td:nth-child(3) {
+   text-align:right;	
+}
+
+/*Horizontale Linie blau hinterlegen*/
+hr {
+	border: 1px solid blue;
+}
+
+/*Die folgenden Klassen (abgelehnt/gestattet) können der jeweiligen Zelle zur Formatierung des Ergebnisses verwendet werden. 
+Eine Klasse wird in CSS mit einem Punkt vor der jeweiligen Bezeichnung angelegt*/
+
+.abgelehnt {
+	color:red;
+}
+
+.gestattet{
+	color:green;
+}
+
+/*Die folgenden Klasse kann zur Formatierung der Kontakt- und Bankdaten verwendet werden.*/
+
+.unternehmensdaten {
+	padding-left:20px;
+	display:inline-block; 
+}
+
+.unternehmensdaten p{
+	font-weight: bold;
+}
+
+.footer {
+	display: flex; 
+	justify-content: space-between; 
+	padding-right: 30%;
+}
+
+
